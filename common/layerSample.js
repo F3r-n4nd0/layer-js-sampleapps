@@ -6,9 +6,8 @@ document.addEventListener('DOMContentLoaded', function() {
    * Hardcoded user identities
    */
   var USERS = [
-    'Alice',
-    'Bob',
-    'Robot'
+      'PruebaWeb',
+      'PruebaMobile'
   ];
 
   /**
